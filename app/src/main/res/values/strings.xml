@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guess The Number</string>
+    <string name="button_text">Roll</string>
+    <string name="image_description">Six sided dice</string>
+    <string name="edit_text_hint">Enter the number</string>
+    <string name="max_number_text">Max Number: 10</string>
+    <string name="attempts_text">Attempts:</string>
+    <string name="restart_button_string">Restart</string>
+    <string name="scores_string">Scores:</string>
+</resources>
